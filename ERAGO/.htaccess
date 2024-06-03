@@ -1,0 +1,9 @@
+# ## Contact
+# This space is administered by:
+#
+# Arnold Chen
+# 0xacioi@gmail.com
+# GitHub username: ArnoldIOI
+
+RewriteEngine on
+RewriteRule ^ https://github.com/ArnoldIOI/Educational-System-with-RAG/ [R=302,L]
